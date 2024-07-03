@@ -6,9 +6,9 @@
 
 
 - 🔭 I’m currently working on website development
-- 🌱 I’m currently learning reactsjs
+- 🌱 I’m currently learning Angular.
 - 👯 I’m looking to collaborate on a new and exciting web application!
-- 🤔 I’m looking for help with understanding the concepts of React.
+- 🤔 I’m looking for help with understanding the concepts of Angular.
 - 💬 Ask me about everything related to website development...
 - 📫 How to reach me: https://www.linkedin.com/in/atif-noor-94383b293/
 - - 📫 How to reach me: atifnoor214@gmail.com
